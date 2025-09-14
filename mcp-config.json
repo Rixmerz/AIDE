@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "aide-mcp-server": {
+      "command": "node",
+      "args": [
+        "/Users/juanpablodiaz/my_projects/AIDE/dist/index.js"
+      ],
+      "env": {
+        "NODE_ENV": "production",
+        "LOG_LEVEL": "info"
+      }
+    }
+  }
+}
